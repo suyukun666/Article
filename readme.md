@@ -1,4 +1,4 @@
-# CV & AI article(cvpr iccv eccv ...)
+# CV & AI paper(cvpr iccv eccv ...)
 
 #### contain：
 
